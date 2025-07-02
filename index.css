@@ -1,0 +1,26 @@
+            body{
+                background-color: rgb(190, 200, 200);
+                color: rgb(8, 8, 94);
+                font-family: Georgia, 'Times New Roman', Times, serif;
+                margin: 0;
+                padding: 0;
+            }
+
+            header{
+                background-color: rgb(8, 8, 94);
+                color: rgb(190, 200, 200);
+                padding: 20px;
+            }
+
+            main{
+                padding: 30px;
+            }
+
+            li{
+                padding: 3px;
+            }
+
+            p{
+                line-height: 1.5;
+                font-size: 14pt;
+            }
